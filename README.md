@@ -26,3 +26,6 @@ The steps to configure AWS CLI are:
    - “Default region name [None]” (Region code e.g: us-east-1)
    - “Default output format [None]” (Desired format of the output - json, yaml, yaml-stream, text format)
 After this the configuration is done and AWS CLI commands can be run successfully. A .aws folder is created on the machine after the configuration is complete. This folder consists of two files, “config” and “credentials”. The CLI automatically logs in with the default credentials using these two files and performs the actions of the commands that are run. A user can also create his or her own profile too.
+
+Follow [here](https://github.com/pragyas03/Distributed-Storage-System---AWS-S3/blob/main/AWS%20S3%20CLI%20Command.mds.md) for AWS S3 CLI Commands
+
