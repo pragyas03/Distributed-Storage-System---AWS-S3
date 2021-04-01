@@ -490,6 +490,10 @@
 				width: 100%;
 			}
 
+		.img1{
+			border-radius: 25%;
+		}
+
 /* List */
 
 	ol {
